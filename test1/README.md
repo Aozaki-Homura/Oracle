@@ -27,4 +27,5 @@ from hr.departments d,hr.employees e
 where d.department_id = e.department_id
 and e.employee_id in ('100','101')
 ORDER BY employee_id;
+```
 - 分析:我的查询语句是查找到id为100和101的员工，再找到他们的电话号码，部门名称以及工资。
