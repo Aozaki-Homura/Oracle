@@ -1,2 +1,2 @@
 # Oracle
-Oracle用户名：aozaki_aoko
+Oracle用户名：aozaki-aoko
